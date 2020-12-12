@@ -7,3 +7,9 @@
 
 2020年12月12日
 - 创建studytxt学习笔记，联系提交到git
+```git
+git add .
+git commit -am "add studytxt"
+git push
+
+```
